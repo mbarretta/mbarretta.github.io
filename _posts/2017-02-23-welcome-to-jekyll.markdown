@@ -1,0 +1,12 @@
+---
+layout: default
+title:  "Firsties"
+date:   2017-02-23 10:22:27 -0500
+categories: null
+---
+
+Into the modern area of blogging? Or rather, the techo-literati's blogging "app"? Or neither...for whom are github pages + jeykll? I like the static page-based approach - mirrors my original foray into "blogging" (a.k.a. journaling) back in college with in-line posts in monthly html pages - and the markdown, but dislike the lack of spell checking. For the spelling-deficient among us, that's a problem. As I'm writting this in vim, I thankfully have a fallback, but I must turn it on! Such effort for such basic functionality! Perhaps we'll just leave misspellings in place as my uncommonly unoriginal idiosyncracy...probably spelled that wrong.
+
+On to other things...
+
+
