@@ -24,7 +24,7 @@ github_username:  mbarretta
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima #jekyll-theme-minimal
 highlighter: rouge
 gems:
   - jekyll-feed
